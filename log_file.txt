@@ -1,0 +1,4 @@
+2024-11-12 17:05:41 - Moved file: 2.7.+Mean,+median+and+mode_exercise.xlsx
+2024-11-12 17:08:58 - Moved file: 2.9.+Variance_exercise_solution.xlsx
+2024-11-12 17:22:10 - Moved file: 4.10.+Hypothesis+testing+section_practical+example_exercise (1).xlsx
+2024-11-12 17:22:38 - Moved file: Copy of Daily Views.xlsx
